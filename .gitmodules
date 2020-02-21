@@ -1,0 +1,3 @@
+[submodule "vol-wallet-js"]
+	path = vol-wallet-js
+	url = git@github.com:cryptogogue/vol-wallet-js.git
