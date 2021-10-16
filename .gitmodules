@@ -1,3 +1,6 @@
 [submodule "vol-wallet-js"]
 	path = vol-wallet-js
 	url = git@github.com:cryptogogue/vol-wallet-js.git
+[submodule "vol-discord-js"]
+	path = vol-discord-js
+	url = git@github.com:cryptogogue/vol-discord-js.git
