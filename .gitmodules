@@ -4,3 +4,6 @@
 [submodule "vol-discord-js"]
 	path = vol-discord-js
 	url = git@github.com:cryptogogue/vol-discord-js.git
+[submodule "vol-node-cpp"]
+	path = vol-node-cpp
+	url = git@github.com:cryptogogue/vol-node-cpp.git
